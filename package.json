@@ -2,6 +2,7 @@
   "name": "github-page-test",
   "private": false,
   "version": "0.0.0",
+  "homepage": "https://wizzbuzz.github.io/github-page-test/",
   "type": "module",
   "scripts": {
     "dev": "vite",
